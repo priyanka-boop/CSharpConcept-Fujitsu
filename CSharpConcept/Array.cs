@@ -1,4 +1,4 @@
-﻿uusing Fujitsu.CSharpConcept.Calc;
+﻿using Fujitsu.CSharpConcept.Calc;
 using System;
 using System.Collections.Generic;
 using System.Linq;

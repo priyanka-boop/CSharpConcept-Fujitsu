@@ -30,4 +30,3 @@ namespace Fujitsu.CSharpConcept.Calc
 
     }
 }
-© 2022 GitHub, Inc.

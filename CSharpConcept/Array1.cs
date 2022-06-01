@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Fujitsu.CSharpConcept
 {
-    class Demo2Array
+    class Array1
     {
         static void Main12(String[] args)
         {
