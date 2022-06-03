@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpConcepts
+namespace CSharpConcept
 {
-    internal class Area
+    internal class Area2
     {
         public static double AreaOfCircle(int r)
         {
@@ -28,17 +28,17 @@ namespace CSharpConcepts
 
         static void Main(String[] args)
         {
-            double res = Area.AreaOfCircle(5);
+            double res = Area2.AreaOfCircle(5);
             Console.WriteLine(res);
 
 
-            double res1 = Area.AreaOfSquare(40.2);
+            double res1 = Area2.AreaOfSquare(40.2);
             Console.WriteLine(res1);
 
-            double res2 = Area.AreaOfTrapezium(5.0, 2.0, 3.0);
+            double res2 = Area2.AreaOfTrapezium(5.0, 2.0, 3.0);
             Console.WriteLine(res2);
 
-            double res3 = Area.VolumeOfSphere(25.6);
+            double res3 = Area2.VolumeOfSphere(25.6);
             Console.WriteLine(res3);
         }
     }
