@@ -32,5 +32,10 @@ namespace SeleniumConcepts
             driver.FindElement(By.XPath("//a[text()='Members Listing']")).Click();
 
         }
+
+        private object MoveToElement(IWebElement webElement)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
